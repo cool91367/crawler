@@ -1,0 +1,12 @@
+MANIFEST.in
+setup.cfg
+setup.py
+version.py
+eyesmediapydb/__init__.py
+eyesmediapydb/mongo_base.py
+eyesmediapydb/mysql_base.py
+eyesmediapydb.egg-info/PKG-INFO
+eyesmediapydb.egg-info/SOURCES.txt
+eyesmediapydb.egg-info/dependency_links.txt
+eyesmediapydb.egg-info/requires.txt
+eyesmediapydb.egg-info/top_level.txt
