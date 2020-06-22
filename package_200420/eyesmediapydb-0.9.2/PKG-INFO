@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: eyesmediapydb
+Version: 0.9.2
+Summary: eyesmedia database common library
+Home-page: UNKNOWN
+Author: eyesmedia
+Author-email: developer@eyesmedia.tw
+License: Copyright eyesmedia
+Description: UNKNOWN
+Platform: ubuntu
+Platform: MacOS
+Platform: centos
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6.3
